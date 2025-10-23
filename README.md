@@ -9,8 +9,8 @@ Cada enlace abre el documento directamente desde la carpeta `docs/`.
 
 | Nº | Título del documento | Enlace |
 |----|-----------------------|--------|
-| 1 | Aprendizaje y rendimiento académico | [Abrir](docs/01%20AprendizajeRendimientoAcademico.pdf) |
-| 2 | Autorregulación emocional | [Abrir](docs/02%20AutorregulacionEmocional.pdf) |
+| 1 | Aprendizaje y rendimiento académico | [Abrir](01%20AprendizajeRendimientoAcademico.pdf) |
+| 2 | Autorregulación emocional | [Abrir](20AutorregulacionEmocional.pdf) |
 | 3 | Procrastinación (PDF) | [Abrir](docs/03%20Procrastinación%20PDF.pdf) |
 | 4 | L-0018576073-pdf | [Abrir](docs/04%20L-0018576073-pdf.pdf) |
 | 5 | Autorregulación - Trias y Huertas (v08) | [Abrir](docs/05%20Autorregulacion-TriasyHuertas_v08.pdf) |
